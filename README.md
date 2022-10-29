@@ -5,7 +5,7 @@ In this repository we provide *Jupyter Notebooks* to reproduce each figure from 
 
 > **Deep Image Prior**
 
-[[paper]](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf) [[supmat]](https://box.skoltech.ru/index.php/s/ib52BOoV58ztuPM) [[project page]](https://dmitryulyanov.github.io/deep_image_prior)
+Built a image generation algorithm using CNN and run it on standard inverse problems such as denoising, super-resolution, and inpainting.
 
 ![](data/teaser_compiled.jpg)
 
